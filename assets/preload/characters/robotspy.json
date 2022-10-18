@@ -1,0 +1,131 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				80
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "robot idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				163,
+				20
+			],
+			"indices": [
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "robot right"
+		},
+		{
+			"offsets": [
+				163,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "robot right"
+		},
+		{
+			"offsets": [
+				-8,
+				100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "robot left"
+		},
+		{
+			"offsets": [
+				-8,
+				100
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "robot left"
+		},
+		{
+			"offsets": [
+				164,
+				100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "robot up"
+		},
+		{
+			"offsets": [
+				164,
+				100
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "robot up"
+		},
+		{
+			"offsets": [
+				0,
+				53
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "robot down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/robotspy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "robotspy",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,128 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spy up"
+		},
+		{
+			"offsets": [
+				0,
+				-108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spy down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "spy dance idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				40
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "spy up",
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				12
+			]
+		},
+		{
+			"offsets": [
+				163,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "spy right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spy left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				18,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				10,
+				11,
+				12
+			],
+			"name": "spy left"
+		},
+		{
+			"offsets": [
+				163,
+				-30
+			],
+			"indices": [
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "spy right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blackspy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "blackspy",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
