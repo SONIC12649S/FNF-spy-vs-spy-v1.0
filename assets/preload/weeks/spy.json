@@ -1,0 +1,48 @@
+{
+	"storyName": "classic rooms 21",
+	"hideFreeplay": false,
+	"weekBackground": "spy",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"menuspy",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"check it",
+			"blackspy",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"combustile",
+			"whitespy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"masuno",
+			"bluespy",
+			[
+				26,
+				53,
+				253
+			]
+		]
+	],
+	"weekName": "classic rooms 21"
+}

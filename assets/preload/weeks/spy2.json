@@ -1,0 +1,30 @@
+{
+	"storyName": "funni scarecrow song",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"spywhack",
+			"greyspy",
+			[
+				110,
+				110,
+				110
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}
